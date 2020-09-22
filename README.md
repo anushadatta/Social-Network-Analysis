@@ -9,4 +9,4 @@ This repository contains all my personal notes and programming assignments for t
 - Week3- Influence Measures and Network Centralization
 - Week4- Network Evolution 
 
-To view my Certification of Completion, click <a href="">here</a>. 
+To view my Certification of Completion, click <a href="https://www.coursera.org/account/accomplishments/certificate/B5L57FEMHUYC">here</a>. 
